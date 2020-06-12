@@ -4,7 +4,7 @@ custom middleware implemenation;
 Conditional Pipeline for middleware
 
 ## Installation
-clone
+clone;
 dotnet run
 
 
